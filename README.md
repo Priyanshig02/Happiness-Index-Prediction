@@ -1,6 +1,6 @@
-## Happiness-Index-Prediction
+# Happiness-Index-Prediction
 
-# Problem Statement:
+## Problem Statement:
 Predicting National Happiness Index: A Comprehensive Analysis of Socio
 Economic Factors Using Multiple Linear Regression and various other Machine 
 Learning Techniques. 
@@ -11,7 +11,7 @@ countries based on various socio-economic factors. The primary objective is to
 utilize multiple linear regression as a baseline model and compare its performance 
 with other advanced machine learning algorithms. 
 
-# Data Description :
+## Data Description :
  
 The project relies on accuracy of data. The data has been collected from World 
 Happiness Report (WHR) 2024. This report used the data which was collected on 
